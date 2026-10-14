@@ -65,4 +65,6 @@ Parágrafo final, que vira o destaque de fechamento da matéria.
 ## Regras editoriais fixas
 
 - Evitar pautas políticas em votação ou disputa (PECs, projetos polêmicos, partidos). Preferir índices, crédito, normas técnicas, tecnologia e mercado.
-- Usar a data de publicação da fonte e só notícias das últimas 48h.
+- Usar a data de publicação da fonte e só notícias dos últimos 7 dias (janela ampliada em 14/10/2026), preferindo as mais recentes.
+- A notícia precisa ser de construção civil (obras, custos da construção, materiais, mão de obra, habitação para construtoras, normas técnicas, produtividade, tecnologia na obra). Macroeconomia só entra se o texto ligar diretamente ao setor.
+- Sem anúncio de evento nem notícia de concorrente.
