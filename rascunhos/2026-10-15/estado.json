@@ -1,0 +1,41 @@
+{
+  "data": "2026-10-15",
+  "etapa": "06:10 buscar e redigir concluida",
+  "observacoes": "2 noticias aprovadas. Fonte da noticia 1 e o Portas (veiculo de mercado imobiliario) com dados do Banco Central e da Abecip; fonte oficial direta nao localizada com data confirmada.",
+  "noticias": [
+    {
+      "slug": "poupanca-sbpe-saida-setembro-credito-imobiliario",
+      "titulo": "Poupança do SBPE tem saída de R$ 6,19 bilhões em setembro, menos que em agosto",
+      "pergunta": "Poupança do SBPE ainda sustenta o crédito?",
+      "tema": "Crédito imobiliário",
+      "foto_url": "https://imagens.ebc.com.br/KNMhaR1OHcAKsBuEm6XKHoHWj-o=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/obras_construcao_noreste_mcajr_abr2807221048.jpg?itok=ROAcD-ja",
+      "foto_credito": "Foto: Marcello Casal Jr/Agência Brasil",
+      "fonte_url": "https://portas.com.br/mercado-imobiliario/poupanca-sbpe-saida-setembro/",
+      "legenda_instagram": "Poupança do SBPE ainda sustenta o crédito?\n\nA poupança do SBPE teve #saída líquida de R$ 6,19 bilhões em setembro, menos que os R$ 9,51 bilhões de agosto, segundo o Banco Central. Mesmo assim, foi o quarto mês seguido no negativo, e o déficit de 2026 chega a R$ 53,22 bilhões.\n\nApesar disso, o #crédito imobiliário com recursos da poupança somou R$ 132,5 bilhões de janeiro a agosto, alta de 37,5% sobre 2025. O setor acompanha de perto a mudança do modelo do SBPE, prevista para janeiro de 2027, e o risco de #financiamento mais caro para o comprador.\n\nQuem lança obra deve testar no fluxo de caixa um cenário de venda mais lenta e juros maiores, e alinhar cronograma e capital de giro a isso.\n\nMatéria completa no Radar: radar.orceu.com\n\n#construçãocivil #orceu #créditoimobiliário #sbpe",
+      "canva": {
+        "design_id": "",
+        "link": ""
+      },
+      "instagram": {
+        "status": "pendente"
+      }
+    },
+    {
+      "slug": "semana-canpat-seguranca-trabalho-estudantes",
+      "titulo": "Semana CANPAT Construção leva segurança no trabalho a mais de mil estudantes em seis cidades",
+      "pergunta": "Segurança no canteiro começa na escola?",
+      "tema": "Segurança",
+      "foto_url": "https://imagens.ebc.com.br/OSOPDe0MuQggIUzWubjyzAtTSsM=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/construcao_civil_2306219897.jpg?itok=1BMVp9Ny",
+      "foto_credito": "Foto: Fernando Frazão/Agência Brasil",
+      "fonte_url": "https://cbic.org.br/dnsse-mobiliza-estados-brasileiros-em-acoes-de-conscientizacao-sobre-seguranca-e-saude-no-trabalho/",
+      "legenda_instagram": "Segurança no canteiro começa na escola?\n\nA CBIC encerrou a #Semana CANPAT Construção 2026 com ações de segurança e saúde no trabalho que alcançaram mais de mil estudantes do 8º e 9º ano em cidades como Curitiba, Recife, Teresina, Boa Vista e Rio de Janeiro.\n\nA iniciativa, feita com o Sesi e o Seconci Brasil, quer criar #cultura de prevenção desde a idade escolar, com foco em prevenção de acidentes e identificação de riscos.\n\nLeve o tema para o diálogo diário de segurança da sua obra, ouça a equipe sobre os riscos e registre as ações de prevenção. Quem forma bem desde cedo, protege o canteiro depois.\n\nMatéria completa no Radar: radar.orceu.com\n\n#construçãocivil #orceu #segurançadotrabalho #canpat",
+      "canva": {
+        "design_id": "",
+        "link": ""
+      },
+      "instagram": {
+        "status": "pendente"
+      }
+    }
+  ]
+}
