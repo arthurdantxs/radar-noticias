@@ -1,6 +1,6 @@
 {
   "data": "2026-10-15",
-  "etapa": "06:55 posts do Canva montados",
+  "etapa": "06:55 concluida: post 1 publicado no Instagram",
   "observacoes": "2 noticias aprovadas. Fonte da noticia 1 e o Portas (veiculo de mercado imobiliario) com dados do Banco Central e da Abecip; fonte oficial direta nao localizada com data confirmada.",
   "noticias": [
     {
@@ -17,7 +17,8 @@
         "link": "https://www.canva.com/d/87Y5y3dnyBIXDi3"
       },
       "instagram": {
-        "status": "pendente"
+        "status": "publicado",
+        "media_id": "17912143206551299"
       }
     },
     {
