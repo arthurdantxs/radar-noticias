@@ -1,6 +1,6 @@
 {
   "data": "2026-10-20",
-  "etapa": "06:55: noticias publicadas, posts do Canva prontos",
+  "etapa": "06:55 concluida: post 1 publicado no Instagram; post 2 pendente para 20:30",
   "observacoes": "2 noticias aprovadas. Fontes: Secovi-SP (15/10) e Agencia CBIC/Seconci-DF (16/10). Descartados: CBIC debate cenario com Levy (anuncio de evento), Sinduscon-CE plataforma de curriculos (vagas), Destrava (08/10, fora da janela). Dado do Secovi limitado a vendas de agosto e acumulado de 12 meses, que sao os numeros disponiveis na pagina.",
   "noticias": [
     {
@@ -17,7 +17,9 @@
         "link": "https://www.canva.com/d/XqnOJwQFLNup24q"
       },
       "instagram": {
-        "status": "pendente"
+        "status": "publicado",
+        "media_id": "18630325528058005",
+        "publicado_em": "2026-10-20 06:5x America/Araguaina"
       }
     },
     {
