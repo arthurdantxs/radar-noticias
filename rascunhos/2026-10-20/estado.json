@@ -1,0 +1,41 @@
+{
+  "data": "2026-10-20",
+  "etapa": "06:10 concluida: 2 rascunhos validados",
+  "observacoes": "2 noticias aprovadas. Fontes: Secovi-SP (15/10) e Agencia CBIC/Seconci-DF (16/10). Descartados: CBIC debate cenario com Levy (anuncio de evento), Sinduscon-CE plataforma de curriculos (vagas), Destrava (08/10, fora da janela). Dado do Secovi limitado a vendas de agosto e acumulado de 12 meses, que sao os numeros disponiveis na pagina.",
+  "noticias": [
+    {
+      "slug": "vendas-imoveis-novos-sao-paulo-agosto-secovi",
+      "titulo": "São Paulo vende 10.813 imóveis novos em agosto e soma 121,1 mil unidades em 12 meses, aponta Secovi-SP",
+      "pergunta": "Quanto São Paulo vendeu em agosto?",
+      "tema": "Vendas",
+      "foto_url": "https://imagens.ebc.com.br/SRHrU3qPrpQYAIHH57CRlBxBfhA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/obras_construcao_noreste_mcajr_abr2807221060.jpg?itok=G0j7zhHl",
+      "foto_credito": "Foto: Marcello Casal Jr/Agência Brasil",
+      "fonte_url": "https://secovi.com.br/pesquisa-mensal-do-mercado-imobiliario-agosto-2026/",
+      "legenda_instagram": "Quanto São Paulo vendeu em agosto?\n\nSegundo a pesquisa mensal do Secovi-SP, foram vendidas 10.813 unidades residenciais novas na capital paulista em agosto. No acumulado de 12 meses, de setembro de 2025 a agosto de 2026, as #vendas somam 121,1 mil unidades.\n\nO número mensal mostra o momento do mercado, e o acumulado ajuda a tirar o efeito da sazonalidade. Para quem lança e constrói, o ritmo de #lançamentos e de obra depende dessa leitura.\n\nCompare suas vendas mensais com o acumulado da cidade e alinhe cronograma e compra de materiais ao ritmo real de vendas, em vez de uma média antiga.\n\nMatéria completa no Radar: radar.orceu.com\n\n#construçãocivil #orceu #mercadoimobiliário #secovi",
+      "canva": {
+        "design_id": "",
+        "link": ""
+      },
+      "instagram": {
+        "status": "pendente"
+      }
+    },
+    {
+      "slug": "higiene-das-maos-canteiros-de-obras-seconci-df",
+      "titulo": "Seconci-DF defende higiene das mãos como rotina de segurança e saúde nos canteiros de obras",
+      "pergunta": "Higiene das mãos também é segurança?",
+      "tema": "Segurança",
+      "foto_url": "https://imagens.ebc.com.br/m-WAYSBevQNUEDxDSth4Cxo8bEw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/construcao_civil_obras_canteiro_de_obras_construcao_trabalhadores190220142528.jpg?itok=3pF9tKx-",
+      "foto_credito": "Foto: Tânia Rêgo/Agência Brasil",
+      "fonte_url": "https://cbic.org.br/seconci-df-higiene-das-maos-tambem-e-questao-de-seguranca-nos-canteiros-de-obras/",
+      "legenda_instagram": "Higiene das mãos também é segurança?\n\nNo Dia Mundial da Higiene das Mãos, o Seconci-DF pediu que a lavagem correta faça parte da rotina de #segurança nos canteiros. Quem trabalha na obra manuseia ferramentas e materiais e divide refeitório, vestiário e áreas comuns.\n\nA orientação é lavar com água e sabão por cerca de 20 segundos antes das refeições, depois de usar o banheiro e após contato com sujeira ou resíduos. Sem água e sabão, vale o álcool em gel 70%. É um cuidado simples de #saúde ocupacional.\n\nGaranta pontos de lavagem com sabão e toalha, leve o tema ao diálogo diário de segurança e mostre o passo a passo na integração de quem chega. Equipe saudável falta menos e protege o prazo.\n\nMatéria completa no Radar: radar.orceu.com\n\n#construçãocivil #orceu #segurançadotrabalho #canteirodeobras",
+      "canva": {
+        "design_id": "",
+        "link": ""
+      },
+      "instagram": {
+        "status": "pendente"
+      }
+    }
+  ]
+}
