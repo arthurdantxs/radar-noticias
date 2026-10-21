@@ -1,6 +1,6 @@
 {
   "data": "2026-10-21",
-  "etapa": "06:55 em andamento: noticias movidas para noticias/ e publicadas no GitHub",
+  "etapa": "06:55: noticias publicadas no GitHub, posts do Canva montados; falta Instagram post 1",
   "observacoes": "2 noticias aprovadas: Secovi-SP consorcios de inovacao (20/10, relato de reuniao ja realizada) e SindusCon-SP seminario de fachadas industrializadas (16/10, relato de evento ja realizado). Descartados: CBIC fim da escala 6x1 (pauta politica em disputa), CBIC mercado imobiliario (evento), Sinapi setembro (ja publicado em 09/10), Caixa/MCMV teto de renda (fonte nao oficial e pauta de politica publica em debate). Fotos novas (nao usadas nos ultimos 7 dias): Frazao 2306219892 e Camargo Cingabur. Nenhuma foto de reserva do AUTOMACAO.md foi usada porque todas ja apareceram nos ultimos dias.",
   "noticias": [
     {
@@ -13,8 +13,8 @@
       "fonte_url": "https://secovi.com.br/secovi-sp-lanca-consorcios-de-inovacao-para-robotizacao-de-canteiros-automacao-de-notas-fiscais-e-uso-corporativo-de-ia",
       "legenda_instagram": "Construtoras testam robôs no canteiro?\n\nO Secovi-SP abriu três consórcios de #inovação para testar soluções em grupo: robotização de canteiros, automação de notas fiscais e uso seguro de IA. As provas de conceito vão de dezembro de 2026 a 2027.\n\nO tema das notas fiscais pesa no bolso: um associado relatou gastar R$ 50 mil em um único mês com multas e juros por atraso e erro. Já a robotização mira a falta de mão de obra qualificada e o trabalho manual repetitivo.\n\nVocê não precisa de um consórcio para copiar o método. Escolha uma dor real da sua obra, rode um teste pequeno com prazo e defina antes o critério para decidir se vale escalar.\n\nMatéria completa no Radar: radar.orceu.com\n\n#construçãocivil #orceu #inovação #secovi",
       "canva": {
-        "design_id": "",
-        "link": ""
+        "design_id": "DAHYofJTus0",
+        "link": "https://www.canva.com/d/k22JnCm77dQmI1e"
       },
       "instagram": {
         "status": "pendente"
@@ -30,8 +30,8 @@
       "fonte_url": "https://sindusconsp.com.br/seminario-debate-fachadas-industrializadas",
       "legenda_instagram": "Fachada industrializada encurta a obra?\n\nNo seminário do SindusCon-SP, um residencial de 225 unidades em Alphaville relatou 55% menos efetivo e 25% menos prazo com fachada industrializada. Em outro case, um pavimento de hotel fica pronto em 4 dias, com zero acidentes.\n\nO detalhe é que cerca de metade do custo da obra passa a ser produzida fora do canteiro, então o desembolso inicial é maior. Por isso os palestrantes pediram #planejamento desde o projeto e um fornecedor parceiro.\n\nAntes de fechar o sistema, compare preço por m², prazo, efetivo, segurança e retrabalho, e coloque o desembolso antecipado no cronograma financeiro para não ter surpresa de caixa.\n\nMatéria completa no Radar: radar.orceu.com\n\n#construçãocivil #orceu #industrialização #produtividade",
       "canva": {
-        "design_id": "",
-        "link": ""
+        "design_id": "DAHYoYUO7XM",
+        "link": "https://www.canva.com/d/bmeYs6sYLTmOtOi"
       },
       "instagram": {
         "status": "pendente"
