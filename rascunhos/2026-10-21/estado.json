@@ -1,6 +1,6 @@
 {
   "data": "2026-10-21",
-  "etapa": "06:55: noticias publicadas no GitHub, posts do Canva montados; falta Instagram post 1",
+  "etapa": "06:55 concluida: post 1 publicado no Instagram; post 2 sai as 20:30",
   "observacoes": "2 noticias aprovadas: Secovi-SP consorcios de inovacao (20/10, relato de reuniao ja realizada) e SindusCon-SP seminario de fachadas industrializadas (16/10, relato de evento ja realizado). Descartados: CBIC fim da escala 6x1 (pauta politica em disputa), CBIC mercado imobiliario (evento), Sinapi setembro (ja publicado em 09/10), Caixa/MCMV teto de renda (fonte nao oficial e pauta de politica publica em debate). Fotos novas (nao usadas nos ultimos 7 dias): Frazao 2306219892 e Camargo Cingabur. Nenhuma foto de reserva do AUTOMACAO.md foi usada porque todas ja apareceram nos ultimos dias.",
   "noticias": [
     {
@@ -17,7 +17,9 @@
         "link": "https://www.canva.com/d/k22JnCm77dQmI1e"
       },
       "instagram": {
-        "status": "pendente"
+        "status": "publicado",
+        "media_id": "18132515503813293",
+        "publicado_em": "2026-10-21 07:0x America/Araguaina"
       }
     },
     {
